@@ -32,8 +32,8 @@ body {
 }
 
 .img-wrapper {
+  cursor: pointer;
   position: relative;
-  line-height: 0;
   overflow: hidden;
 
   &::before {
