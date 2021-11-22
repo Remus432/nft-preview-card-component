@@ -80,6 +80,10 @@ body {
       cursor: pointer;
       font-weight: 600;
 
+      & h1 {
+        font-size: 1.8rem;
+      }
+
       &:hover {
         color: $color-cyan;
       }
